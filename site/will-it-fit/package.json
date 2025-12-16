@@ -1,0 +1,14 @@
+{
+  "name": "will-it-fit-landing",
+  "version": "1.0.0",
+  "description": "Will-It-Fit landing page with live demo widget",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
